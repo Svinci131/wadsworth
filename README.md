@@ -1,4 +1,4 @@
-![butler](https://github.com/Svinci131/wadsworth/blob/master/assets/butler.png?raw=true)
+[![butler](https://github.com/Svinci131/wadsworth/blob/master/assets/butler.png?raw=true)](https://github.com/Svinci131/wadsworth/blob/master/assets/butler_attribution.md)
 
 # Wadsworth
 
