@@ -12,3 +12,7 @@ TBD
 
 
 ## [LICENSE](https://github.com/Svinci131/wadsworth/blob/master/LICENSE)
+
+## About
+*A joint project by **[Samantha Vinci](http://samanthavinci.com)** and **[Taq Karim](https://github.com/mottaquikarim)***
+
