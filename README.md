@@ -10,6 +10,13 @@ TBD
 
 *List of available services, with links to repo and brief description*
 
+### [Door Lock Validator]()
+
+### [Eufy Vacuum Control]()
+
+### [Voice Control]()
+
+### [Wemo Smart Outlet]()
 
 ## [LICENSE](https://github.com/Svinci131/wadsworth/blob/master/LICENSE)
 
