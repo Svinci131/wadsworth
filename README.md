@@ -17,7 +17,7 @@ Twilio webhook for communicating with internally established rpi services
 
 ### [Door Lock Validator]()
 
-### [Eufy Vacuum Control]()
+### [Eufy Vacuum Control](https://github.com/mottaquikarim/wadsworth-pi-services)
 
 ### [Voice Control]()
 
